@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm McKiba</h1>
-<h3 align="center">A passionate mobile developer devoted to learning and building</h3>
 
 <p align="left"> <a href="https://twitter.com/notmckiba" target="blank"><img src="https://img.shields.io/twitter/follow/notmckiba?logo=twitter&style=for-the-badge" alt="notmckiba" /></a> </p>
 
