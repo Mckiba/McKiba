@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Kiba</h1>
-
- 
 
 
 - 📫 How to reach me **wmckiba@gmail.com**
